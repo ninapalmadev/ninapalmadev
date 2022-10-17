@@ -1,12 +1,31 @@
 :raising_hand: Olá, sou a Nina. Moro em São Paulo - SP e tenho 28 anos. 
 
-📝 Sou formada em Comunicação Social - Rádio, Tv e Internet e hoje estou em transição de carreira.
+Atualmente estudando por bootcamps da DIO. MySQL, Data Science e OracleCloud Infraestructure pela Alura. 
 
-📚 Comecei meus estudos de front-end em novembro de 2021, sendo mentoranda do [Cabra Dev](https://twitter.com/cabra_dev), avançando no conhecimento sobre JavaScript e Java. Full Stack tem sido uma boa parte do meu interesse. 
+Concluído o Programa One - Oracle & Alura. 
 
-👩‍💻 Atualmente fazendo o Bootcamp Quebec JAVA Digital, Trilha Fundamentar da Rocketseat, Formação FullStack ALURA-ONE.
+Com formação acadêmica em Comunicação Social - Rádio, TV e Internet. Conceitos de criatividade, organização, produção e desenvolvimento de conteúdos audiovisuais. 
 
-😎 Interessada em ganhar XP tanto em front-end quanto back-end. Aberta a oportunidades e buscando colaborar com o que a comunidade precisar.
+Buscando alocação como profissional de tecnologia com ênfase em Java, JavaScript e ReactJS, atuando tanto com BackEnd quanto FrontEnd e colaborar com o que a comunidade precisar. 
+
+Minhas experiências são:
+- Java
+- MySQL
+- API Rest
+- Spring Boot
+- Swagger
+- Git e GitHub
+- CRUD
+- HTML5
+- CSS3
+- HTTP
+- JavaScript
+- Tailwind
+- ReactJS 
+- Business Model 
+- Metodologias Ágeis 
+- POO
+- Clean Code
 
 📧 Contato: 
 
@@ -15,4 +34,3 @@
 [Instagram](https://www.instagram.com/palmaninao/)
 
 email: ninapalmadev@gmail.com
-
