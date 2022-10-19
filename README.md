@@ -9,23 +9,12 @@ Com formação acadêmica em Comunicação Social - Rádio, TV e Internet. Conce
 Buscando alocação como profissional de tecnologia com ênfase em Java, JavaScript e ReactJS, atuando tanto com BackEnd quanto FrontEnd e colaborar com o que a comunidade precisar. 
 
 Minhas experiências são:
-- Java
-- MySQL
-- API Rest
-- Spring Boot
-- Swagger
-- Git e GitHub
-- CRUD
-- HTML5
-- CSS3
-- HTTP
-- JavaScript
-- Tailwind
-- ReactJS 
-- Business Model 
-- Metodologias Ágeis 
-- POO
-- Clean Code
+
+| Java | MySQL | API Rest  |Spring Boot |
+|---|---|---|---|
+| CRUD | POO |  JavaScript |Git e GitHub|
+| CSS3 | HTTP |  Tailwind |Clean Code|
+| HTML5 |Swagger|  ReactJS |Metodologias Ágeis|
 
 📧 Contato: 
 
@@ -34,3 +23,6 @@ Minhas experiências são:
 [Instagram](https://www.instagram.com/palmaninao/)
 
 email: ninapalmadev@gmail.com
+
+![Nina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninapalmadev&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninapalmadev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
