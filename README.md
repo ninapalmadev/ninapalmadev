@@ -1,20 +1,19 @@
 :raising_hand: Olá, sou a Nina. Moro em São Paulo - SP e tenho 28 anos. 
 
-Atualmente estudando por bootcamps da DIO. MySQL, Data Science e OracleCloud Infraestructure pela Alura. 
+Atualmente estudando por bootcamps da DIO. MySQL, Data Science e OracleCloud Infraestructure pela Alura. Desenvolvimento Android - Udemy.
 
 Concluído o Programa One - Oracle & Alura. 
 
 Com formação acadêmica em Comunicação Social - Rádio, TV e Internet. Conceitos de criatividade, organização, produção e desenvolvimento de conteúdos audiovisuais. 
 
-Buscando alocação como profissional de tecnologia com ênfase em Java, JavaScript e ReactJS, atuando tanto com BackEnd quanto FrontEnd e colaborar com o que a comunidade precisar. 
+Buscando alocação como profissional de tecnologia com ênfase em Java e JavaScript, atuando como Desenvolvedora Mobile e colaborar com o que a comunidade precisar. 
 
 Minhas experiências são:
 
-| Java | MySQL | API Rest  |Spring Boot |
+| Java | MySQL | JavaScript | Git e GitHub |
 |---|---|---|---|
-| CRUD | POO |  JavaScript |Git e GitHub|
-| CSS3 | HTTP |  Tailwind |Clean Code|
-| HTML5 |Swagger|  ReactJS |Metodologias Ágeis|
+| CRUD | Kotlin | CSS3 | Clean Code |
+| HTTP | HTML5 | Tailwind |Metodologias Ágeis|
 
 📧 Contato: 
 
