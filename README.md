@@ -23,5 +23,5 @@ Minhas experiências são:
 
 email: ninapalmadev@gmail.com
 
-![Nina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninapalmadev&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninapalmadev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Nina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninapalmadev&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninapalmadev&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
