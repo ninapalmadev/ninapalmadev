@@ -1,6 +1,6 @@
 :raising_hand: Olá, sou a Nina. Moro em São Paulo - SP e tenho 28 anos. 
 
-Atualmente estudando por bootcamps da DIO. MySQL, Data Science e OracleCloud Infraestructure pela Alura. Desenvolvimento Android - Udemy.
+Atualmente estudante da Trybe. 
 
 Concluído o Programa One - Oracle & Alura. 
 
