@@ -1,4 +1,4 @@
-:raising_hand: Olá, sou a Nina. Moro em São Paulo - SP e tenho 28 anos. 
+:raising_hand: Olá, sou a Nina. Moro em São Paulo - SP.
 
 Atualmente estudante da Trybe. 
 
