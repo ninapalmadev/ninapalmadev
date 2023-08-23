@@ -12,7 +12,8 @@ Minhas experiências são:
 
 | Java | MySQL | JavaScript | Git e GitHub |
 |---|---|---|---|
-| CRUD | Kotlin |    CSS3  |     Clean Code   |
+| CRUD  | Kotlin |    CSS3  |     Clean Code   |
+| SCRUM | NodeJS |  Docker  |     DB   |
 | Vite |  React |   Redux  |      RTL         |
 | HTTP | HTML5  | Tailwind |Metodologias Ágeis|
 
