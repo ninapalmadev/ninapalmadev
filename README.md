@@ -21,7 +21,7 @@ Minhas experiências são:
 
 [Linkedin](https://br.linkedin.com/in/ninapalmadev)
 
-[Instagram](https://www.instagram.com/palmaninao/)
+[Instagram](https://www.instagram.com/ninaopalma/)
 
 email: ninapalmadev@gmail.com
 
