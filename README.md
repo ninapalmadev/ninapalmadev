@@ -1,12 +1,14 @@
 :raising_hand: Olá, sou a Nina. Moro em São Paulo - SP.
 
-Atualmente estudante da Trybe. 
+React | JavaScript | Node.JS | SQL | Typescript
+
+Formada em Desenvolvedor Web Full Stack na Trybe.
 
 Concluído o Programa One - Oracle & Alura. 
 
-Com formação acadêmica em Comunicação Social - Rádio, TV e Internet. Conceitos de criatividade, organização, produção e desenvolvimento de conteúdos audiovisuais. 
+Formação acadêmica em Comunicação Social - Rádio, TV e Internet. Conceitos de criatividade, organização, produção e desenvolvimento de conteúdos audiovisuais. 
 
-Buscando alocação como profissional de tecnologia com ênfase em Java e JavaScript, atuando como Desenvolvedora Mobile e colaborar com o que a comunidade precisar. 
+Entusiasta profissional de tecnologia com ênfase em Java e JavaScript, atuando como desenvolvedora web e colaborar com o que a comunidade precisar. 
 
 Minhas experiências são:
 
